@@ -22,6 +22,7 @@ import net.sourceforge.stripes.validation.Validate;
 
 /**
  * @author Eduardo Macarron
+ * weetat
  *
  */
 public class Account implements Serializable {
